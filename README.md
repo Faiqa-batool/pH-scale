@@ -1,4 +1,4 @@
-<h1>pH scale</h1>h1>
+<h1>pH scale</h1>
 <p>
 Its basic structure has been created using HTML.
 
